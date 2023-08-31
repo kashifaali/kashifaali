@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/kashifaali/kashifaali/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kashif ali</h1>
 <h3 align="center">A passionate computer scientist from Pakistan</h3>
 
